@@ -1,0 +1,24 @@
+body{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+#addTaskInput{
+    padding: 5px;
+}
+
+#addBtn{
+    padding: 5px;
+    margin-left: 5px;
+    background: green;
+    color: white
+}
+#removeAllBtn{
+    padding: 5px;
+    margin-left: 5px;
+    background: red;
+    color:white;
+} 
+#deleteBtn{
+    color: red
+}
